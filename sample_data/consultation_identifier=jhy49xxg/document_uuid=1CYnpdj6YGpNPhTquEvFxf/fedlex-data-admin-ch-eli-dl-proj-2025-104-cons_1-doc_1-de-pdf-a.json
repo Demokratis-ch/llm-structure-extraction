@@ -377,21 +377,21 @@
             "children": [
               {
                 "id": "5wdu0au",
-                "number": null,
+                "number": "^1^",
                 "type": "CONTENT",
-                "format": "MARKDOWN",
+                "format": "TEXT",
                 "contents": {
-                  "de": "^1^ Für jeden Kanton wird, ausgehend von den jeweils in den ersten 14 Monaten abgerechneten Leistungsdaten des Ausgleichsjahres und des Vorjahres, in aggregierten Risikogruppen je ein Teuerungsfaktor ermittelt."
+                  "de": "Für jeden Kanton wird, ausgehend von den jeweils in den ersten 14 Monaten abgerechneten Leistungsdaten des Ausgleichsjahres und des Vorjahres, in aggregierten Risikogruppen je ein Teuerungsfaktor ermittelt."
                 },
                 "children": []
               },
               {
                 "id": "0ryhcyx",
-                "number": null,
+                "number": "^2^",
                 "type": "CONTENT",
-                "format": "MARKDOWN",
+                "format": "TEXT",
                 "contents": {
-                  "de": "^2^ Zur Bildung der aggregierten Risikogruppen werden die Risikogruppen nach Artikel 11 VORA wie folgt zusammengefasst:"
+                  "de": "Zur Bildung der aggregierten Risikogruppen werden die Risikogruppen nach Artikel 11 VORA wie folgt zusammengefasst:"
                 },
                 "children": []
               },
@@ -489,21 +489,21 @@
               },
               {
                 "id": "8pdqyrk",
-                "number": null,
+                "number": "^3^",
                 "type": "CONTENT",
-                "format": "MARKDOWN",
+                "format": "TEXT",
                 "contents": {
-                  "de": "^3^ Der Teuerungsfaktor wird durch Division der durchschnittlichen Nettoleistungen im Ausgleichsjahr durch die durchschnittlichen Nettoleistungen im Vorjahr ermittelt."
+                  "de": "Der Teuerungsfaktor wird durch Division der durchschnittlichen Nettoleistungen im Ausgleichsjahr durch die durchschnittlichen Nettoleistungen im Vorjahr ermittelt."
                 },
                 "children": []
               },
               {
                 "id": "zh8zqip",
-                "number": null,
+                "number": "^4^",
                 "type": "CONTENT",
-                "format": "MARKDOWN",
+                "format": "TEXT",
                 "contents": {
-                  "de": "^4^ Die durchschnittlichen Nettoleistungen werden über alle Versicherer hinweg pro aggregierte Risikogruppe nach Absatz 2 berechnet."
+                  "de": "Die durchschnittlichen Nettoleistungen werden über alle Versicherer hinweg pro aggregierte Risikogruppe nach Absatz 2 berechnet."
                 },
                 "children": []
               }
