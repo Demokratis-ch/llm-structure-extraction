@@ -1,0 +1,2201 @@
+{
+  "DocTreeVersion": 1,
+  "metadata": {
+    "title": {
+      "de": "fedlex-data-admin-ch-eli-dl-proj-2025-21-cons_1-doc_1-de-pdf-a"
+    }
+  },
+  "document": {
+    "id": "qr56ga3",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "rur3or3",
+        "number": null,
+        "type": "HEADING",
+        "format": "TEXT",
+        "contents": {
+          "de": "Verordnung über die intensive Frühintervention bei Autismus-Spektrum-Störungen (IFIAV)"
+        },
+        "children": [
+          {
+            "id": "zdkdu5u",
+            "number": null,
+            "type": "CONTENT",
+            "format": "TEXT",
+            "contents": {
+              "de": "vom ..."
+            },
+            "children": []
+          },
+          {
+            "id": "k94ihwq",
+            "number": null,
+            "type": "CONTENT",
+            "format": "MARKDOWN",
+            "contents": {
+              "de": "*Der Schweizerische Bundesrat,*"
+            },
+            "children": []
+          },
+          {
+            "id": "ft3m8i4",
+            "number": null,
+            "type": "CONTENT",
+            "format": "MARKDOWN",
+            "contents": {
+              "de": "gestützt auf die Artikel 13*a* Absatz 3, 67 Absatz 1^ter^ und 68^novies^ Absätze 6 bis 8 des Bundesgesetzes vom 19. Juni 1959^1^ über die Invalidenversicherung (IVG),"
+            },
+            "children": [
+              {
+                "id": "6fe3dji",
+                "number": "^1^",
+                "type": "FOOTNOTE",
+                "format": "MARKDOWN",
+                "contents": {
+                  "de": "SR **831.20**; BBl **2025 1106**"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7z8mmd8",
+            "number": null,
+            "type": "CONTENT",
+            "format": "MARKDOWN",
+            "contents": {
+              "de": "*beschliesst:*"
+            },
+            "children": []
+          },
+          {
+            "id": "fzd1eji",
+            "number": null,
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "1. Abschnitt: Gegenstand"
+            },
+            "children": []
+          },
+          {
+            "id": "wyg35em",
+            "number": "Art. 1",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": ""
+            },
+            "children": [
+              {
+                "id": "i5lgz0q",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Verordnung regelt die Grundsätze für die Gewährung von Pauschalen für die intensive Frühintervention bei Autismus-Spektrum-Störungen (IFI) durch die Invalidenversicherung, die Berechnung und die Auszahlung dieser Pauschalen, die Kriterien zur Evaluation der IFI und die Datenbearbeitung."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5dilh1y",
+            "number": null,
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "2. Abschnitt: Voraussetzungen zur Gewährung von Pauschalen durch die Invalidenversicherung"
+            },
+            "children": []
+          },
+          {
+            "id": "m53ky6u",
+            "number": "Art. 2",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Voraussetzungen"
+            },
+            "children": [
+              {
+                "id": "f7ktr1x",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Invalidenversicherung gewährt Pauschalen zur Kostenübernahme der im Rahmen der IFI erbrachten medizinischen Massnahmen nur, wenn folgende Voraussetzungen erfüllt sind:"
+                },
+                "children": []
+              },
+              {
+                "id": "ryzgy66",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "1894xcq",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "bka2w03",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "hinsichtlich der Organisation, die die IFI durchführt (Organisation) (Art. 3);"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "db705ou",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "qeqxnys",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "hinsichtlich des Personals der Organisation, das die IFI durchführt (Art. 4);"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "whduxp2",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "u24l95l",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "hinsichtlich der Interventionsmethode (Art. 5);"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "zi8peoe",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "q6ys7sf",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "hinsichtlich der Dauer, des Ortes und der Intensität der IFI (Art. 6);"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "vuxfytb",
+                    "number": "e.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "k928yva",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "hinsichtlich der Verlängerung der IFI (Art. 7), und"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "br3rzvy",
+                    "number": "f.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "gu5dvbg",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "hinsichtlich der Teilnehmenden an der IFI (Art. 8)."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "u9ttqri",
+            "number": "Art. 3",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Organisation, die die IFI durchführt"
+            },
+            "children": [
+              {
+                "id": "uf9twu6",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Organisation ist einer öffentlich-rechtlichen Institution angegliedert oder hat einen Leistungsauftrag bezüglich der IFI mit dem Kanton abgeschlossen."
+                },
+                "children": []
+              },
+              {
+                "id": "ixrnevj",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Sie erfüllt eine der folgenden Voraussetzungen:"
+                },
+                "children": []
+              },
+              {
+                "id": "5qs1lrh",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "x2zkqiw",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "07an1b1",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "Sie wird geleitet von:"
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "o656t4s",
+                        "number": null,
+                        "type": "LIST",
+                        "children": [
+                          {
+                            "id": "y9oehht",
+                            "number": "1.",
+                            "type": "LIST_ITEM",
+                            "children": [
+                              {
+                                "id": "vbkv4zq",
+                                "number": null,
+                                "type": "CONTENT",
+                                "format": "TEXT",
+                                "contents": {
+                                  "de": "einer Fachärztin oder einem Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie,"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "32evqz0",
+                            "number": "2.",
+                            "type": "LIST_ITEM",
+                            "children": [
+                              {
+                                "id": "ldbywma",
+                                "number": null,
+                                "type": "CONTENT",
+                                "format": "TEXT",
+                                "contents": {
+                                  "de": "einer Fachärztin oder einem Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie, oder"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "sbxuy9z",
+                            "number": "3.",
+                            "type": "LIST_ITEM",
+                            "children": [
+                              {
+                                "id": "yjxpvqz",
+                                "number": null,
+                                "type": "CONTENT",
+                                "format": "TEXT",
+                                "contents": {
+                                  "de": "einer Fachärztin oder einem Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt in Entwicklungspädiatrie."
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "s5f6q6k",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "yi2aa22",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "Die von ihr erbrachten medizinischen Massnahmen werden von einer Fachärztin oder einem Facharzt beaufsichtigt, der oder die die Kriterien nach Buchstabe a Ziffer 1, 2 oder 3 erfüllt."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2bt63ut",
+            "number": "Art. 4",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Personal der Organisation, das die IFI durchführt"
+            },
+            "children": [
+              {
+                "id": "im7li7g",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Das Team, das die IFI durchführt, setzt sich aus medizinischem und pädagogischem Personal zusammen. Der Anteil des medizinischen Personals beträgt mindestens 20 Prozent in Vollzeitäquivalenten, einschliesslich Leitung."
+                },
+                "children": []
+              },
+              {
+                "id": "vz1qlae",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Das medizinische Personal umfasst nicht mehr als 30 % in Vollzeitäquivalenten an Personen in Ausbildung."
+                },
+                "children": []
+              },
+              {
+                "id": "qx54rxr",
+                "number": "^3^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Das medizinische und das pädagogische Personal ist im Bereich Autismus-SpektrumStörungen oder in der von der Organisation angewandten Interventionsmethode ausgebildet oder befindet sich in Ausbildung."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "i8mvjjn",
+            "number": "Art. 5",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Interventionsmethode"
+            },
+            "children": [
+              {
+                "id": "g7dobeb",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die angewandte Interventionsmethode:"
+                },
+                "children": []
+              },
+              {
+                "id": "cl7e90p",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "8h4dhrk",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "gassqkg",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "weist eine wissenschaftlich anerkannte Wirksamkeit auf;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "sw9fnsd",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "c35q1fo",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "besteht aus einer Verhaltenstherapie oder einer entwicklungsorientierten Therapie oder einer Kombination von beiden;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "xmz7lrs",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "p7wuc20",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "umfasst die Bereiche Kognition, Kommunikation, Sprache, soziale Interaktion und emotionale Entwicklung;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "sbvtih3",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "bjwhnlg",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "besteht teils aus Einzelarbeit mit dem Kind und teils aus Arbeit in kleinen Kindergruppen;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "29lfw63",
+                    "number": "e.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "9wo934h",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "bezieht die Inhaberinnen und Inhaber der elterlichen Sorge angemessen ein, soweit dies möglich ist."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "cfsc4vp",
+            "number": "Art. 6",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Dauer, Ort und Intensität der IFI"
+            },
+            "children": [
+              {
+                "id": "8jkh2by",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die IFI dauert mindestens zwei Jahre bei insgesamt mindestens 90 Wochen."
+                },
+                "children": []
+              },
+              {
+                "id": "68f3kac",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "In medizinisch begründeten Ausnahmefällen kann die Dauer der IFI verkürzt werden, insbesondere wenn das Alter oder die Fortschritte des Kindes dies rechtfertigen."
+                },
+                "children": []
+              },
+              {
+                "id": "7y8jqrl",
+                "number": "^3^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die IFI wird grundsätzlich vollständig innerhalb der Organisation oder an den Orten durchgeführt, an denen das Kind seinen Alltag verbringt, insbesondere zu Hause oder in der Kita."
+                },
+                "children": []
+              },
+              {
+                "id": "3s84zts",
+                "number": "^4^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Sie kann ausnahmsweise als Fernintervention mithilfe von Informations- und Kommunikationstechnologien durchgeführt werden, sofern das Kind sowie die Inhaberinnen und Inhaber der elterlichen Sorge zu Beginn der Intervention von der Organisation intensiv betreut werden."
+                },
+                "children": []
+              },
+              {
+                "id": "a4v0kyx",
+                "number": "^5^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die nach den Modalitäten in Absatz 3 durchgeführte IFI umfasst durchschnittlich mindestens 15 Arbeitsstunden pro Woche, die das für die IFI verantwortliche Team mit dem Kind einzeln oder kleinen Kindergruppen erbringt."
+                },
+                "children": []
+              },
+              {
+                "id": "eucdupn",
+                "number": "^6^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die nach den Modalitäten in Absatz 4 durchgeführte IFI umfasst durchschnittlich mindestens 10 Arbeitsstunden pro Woche, die das für die IFI verantwortliche Team wie folgt erbringt:"
+                },
+                "children": []
+              },
+              {
+                "id": "8dnphyx",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "40c2kl3",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "dlz2sa1",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "mit dem Kind einzeln oder in kleinen Kindergruppen, oder"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2jnp1sl",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "t722akm",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "mit den Inhaberinnen und Inhabern der elterlichen Sorge anhand von in Echtzeit oder nachträglich geteilten Videoaufnahmen des Kindes."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7n1yr3m",
+            "number": "Art. 7",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Verlängerung der IFI"
+            },
+            "children": [
+              {
+                "id": "ymgv30c",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Werden im Anschluss an die IFI gemäss Art. 6 Massnahmen getroffen, um die Fortschritte des Kindes vor dem Schuleintritt zu festigen oder den Übergang in ein anderes Umfeld oder die Integration in die Schule zu erleichtern, bestehen diese Massnahmen in einer Arbeit mit dem Kind durch das IFI-Team im Umfang von durchschnittlich mindestens einer Stunde pro Woche."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "76e0aqg",
+            "number": "Art. 8",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Teilnehmende an der IFI"
+            },
+            "children": [
+              {
+                "id": "eon6ph7",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Kinder, die an der IFI teilnehmen, erfüllen folgende Voraussetzungen:"
+                },
+                "children": []
+              },
+              {
+                "id": "6sght2r",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "nk26vj7",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "vxfe78e",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "sie sind gemäss IVG versichert;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "zs6cq32",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "uuq2wci",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "sie leiden an einer von der Invalidenversicherung als Geburtsgebrechen anerkannten Autismus-Spektrum-Störung und sind mit dieser Störung bei der IV-Stelle ihres Wohnkantons gemeldet;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "jrti1lr",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "amna14g",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "der Schweregrad der Autismus-Spektrum-Störung oder der Schweregrad der funktionellen Einschränkungen oder der Einschränkungen der geistigen Entwicklung, von denen sie betroffen sind, rechtfertigen eine IFI;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "wddr8lg",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "0jjq37f",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "sie weisen keine Begleiterkrankungen auf, bei denen eine IFI kontraindiziert wäre; und"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "9mdmrju",
+                    "number": "e.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "p32mp7u",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "sie sind bei Beginn der IFI jünger als vier Jahre; in medizinisch begründbaren Fällen können sie auch älter sein."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "pfml7mp",
+            "number": null,
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "3. Abschnitt Berechnung der Pauschalen und Modalitäten der Auszahlung"
+            },
+            "children": []
+          },
+          {
+            "id": "9n5j298",
+            "number": "Art. 9",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Berechnung der Pauschalen"
+            },
+            "children": [
+              {
+                "id": "i0uasbj",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die von der Invalidenversicherung für die Übernahme der medizinischen Massnahmen im Rahmen der IFI gewährten Pauschalen werden pro Kind und pro Jahr auf der Basis der normierten medizinischen Leistungen berechnet, multipliziert mit den Normkosten für diese Leistungen."
+                },
+                "children": []
+              },
+              {
+                "id": "5d0hcy5",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die normierten medizinischen Leistungen setzen sich wie folgt zusammen:"
+                },
+                "children": []
+              },
+              {
+                "id": "f3twsma",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "5a5fen2",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "erjwlh8",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "20 Prozent der Mindestarbeitsstunden gemäss Artikel 6 Absätze 5 und 6, und"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "fojjyzg",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "374l2h7",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "zwei Stunden pro Woche für die zusätzliche Arbeit im Zusammenhang mit dem Kind."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "ckibhpx",
+                "number": "^3^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Normkosten werden festgelegt auf der Grundlage von:"
+                },
+                "children": []
+              },
+              {
+                "id": "1a84g2h",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "w3i0nuz",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "hsc6qih",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "den bestehenden Tarifen für die Leistungen der verschiedenen Kategorien des medizinischen Personals, das die IFI durchführt, und"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "fx2tzsp",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "iks4ftq",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "der durchschnittlichen Zusammensetzung des medizinischen Teams in den Organisationen, die einer Vereinbarung zwischen dem BSV und dem Kanton unterliegen, einschliesslich der Leitung."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ma4fpg8",
+            "number": "Art. 10",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Festlegung der Pauschalen in den Vereinbarungen zwischen dem BSV und dem Kanton"
+            },
+            "children": [
+              {
+                "id": "jvzdhrk",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Das Bundesamt für Sozialversicherungen (BSV) legt in den mit den Kantonen gemäss Artikel 17 abgeschlossenen Vereinbarungen die Höhe der Pauschalen nach Artikel 9 fest."
+                },
+                "children": []
+              },
+              {
+                "id": "4mme084",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Es aktualisiert diesen Betrag alle vier Jahre."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "th1nq31",
+            "number": "Art. 11",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Jährliche Höchstpauschale"
+            },
+            "children": [
+              {
+                "id": "9356sfq",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die jährliche Pauschale ist auf 30 % der durchschnittlichen Gesamtkosten pro Kind und Jahr für die im Rahmen der Vereinbarungen zwischen dem BSV und einem Kanton durchgeführten IFI begrenzt."
+                },
+                "children": []
+              },
+              {
+                "id": "m81b6y9",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Das BSV ermittelt diese Kosten anhand der verfügbaren Zahlen für das Jahr vor der Verhandlung oder der Erneuerung der Vereinbarungen."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "gnwok2c",
+            "number": "Art. 12",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Monatliche Pauschale für die Verlängerung der IFI"
+            },
+            "children": [
+              {
+                "id": "l07z93h",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Pauschale für die Verlängerung der IFI gemäss Artikel 7 wird pro Kind auf monatlicher Basis festgelegt. Die monatliche Pauschale entspricht 3 Prozent der Jahrespauschale."
+                },
+                "children": []
+              },
+              {
+                "id": "ufafumv",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Wird die Dauer der IFI gemäss Artikel 6 Absatz 2 verkürzt, wird bei einer Verlängerung der IFI keine monatliche Pauschale gewährt."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "75xdses",
+            "number": "Art. 13",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Kürzung oder Streichung der Jahrespauschale"
+            },
+            "children": [
+              {
+                "id": "nmu9zbl",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Wird die IFI definitiv abgebrochen oder gemäss Artikel 6 Absatz 2 verkürzt, wird die Jahrespauschale nach folgenden Modalitäten reduziert:"
+                },
+                "children": []
+              },
+              {
+                "id": "b14xtlg",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "as9fs9a",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "kjqc834",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "Dauert die IFI weniger als sechs Monate, wird die Pauschale um die Hälfte gekürzt;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1nk3feu",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "sg2oiwo",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "dauert die IFI länger als ein Jahr, aber weniger als 21 Monate, wird die Pauschale für das zweite Jahr um die Hälfte gekürzt."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "gdwp81j",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Pauschale kann jederzeit gekürzt oder gestrichen werden, wenn die Voraussetzungen des IVG, dieser Verordnung oder der Vereinbarung zwischen dem BSV und dem Kanton nicht vollständig erfüllt sind."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "pj3omqd",
+            "number": "Art. 14",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Maximale Dauer der Auszahlung der Pauschalen"
+            },
+            "children": [
+              {
+                "id": "y0iepcz",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Jahrespauschale gemäss Artikel 9 wird während höchstens zwei Jahren ausbezahlt."
+                },
+                "children": []
+              },
+              {
+                "id": "h513y8j",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die monatliche Pauschale für die Verlängerung der IFI gemäss Art. 12 wird maximal für ein Jahr ausbezahlt."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "j50n0b6",
+            "number": "Art. 15",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Weitere Modalitäten zur Auszahlung der Pauschalen"
+            },
+            "children": [
+              {
+                "id": "n7qftyq",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Pauschalen werden dem Kanton einmal pro Jahr für jedes Kind ausbezahlt, das vor dem 1. Oktober ein erstes oder ein zweites ganzes IFI-Jahr absolviert, die IFI definitiv abgebrochen oder eine verkürzte IFI oder eine Verlängerung der IFI abgeschlossen hat."
+                },
+                "children": []
+              },
+              {
+                "id": "nq8ex7f",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Der Kanton stellt dem BSV vor dem 1. November eine Rechnung mit folgenden Angaben zu:"
+                },
+                "children": []
+              },
+              {
+                "id": "d0rgcam",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "114ir19",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "u510uzu",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Anzahl der betroffenen Kinder;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "z00hih9",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "cv8g830",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "ihr Geburtsdatum;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "zkq8k87",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "4xjb38s",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "das Anfangs- und gegebenenfalls das Enddatum der IFI oder das Anfangsund Enddatum der Verlängerung der IFI, und"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "rayi42s",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "pr5m0qz",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "der Name der Organisation."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "fb2mc74",
+                "number": "^3^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die weiteren Modalitäten zur Auszahlung der Fallpauschalen werden in den Vereinbarungen zwischen dem BSV und den Kantonen geregelt."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "m4nej0q",
+            "number": null,
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "4. Abschnitt Kantonale Planung und Vereinbarungen zwischen dem BSV und den Kantonen"
+            },
+            "children": []
+          },
+          {
+            "id": "clvx7q2",
+            "number": "Art. 16",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Kantonale Planung"
+            },
+            "children": [
+              {
+                "id": "enrs6jg",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die zuständige kantonale Instanz erstellt vor Abschluss oder Erneuerung einer Vereinbarung nach Artikel 17 eine Planung zur IFI."
+                },
+                "children": []
+              },
+              {
+                "id": "aqpvyct",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Planung umfasst insbesondere:"
+                },
+                "children": []
+              },
+              {
+                "id": "b5lm34b",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "4bdroh5",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "1byqq5g",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Finanzierung des IFI-Angebots;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "pbmaygt",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "flvxxa1",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "eine Schätzung der notwendigen Anzahl Plätze zur Bedarfsdeckung, die vorhandenen Aufnahmekapazitäten und die Ziele des Kantons in diesem Bereich;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "j5bmmj9",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "3tylcfd",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Modalitäten der kantonalen Aufsicht über die Organisation oder die Organisationen, und"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "oms1qv5",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "x4m9e8d",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "gegebenenfalls die Vereinbarungen mit anderen Kantonen über die IFI."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "t5vkzcz",
+            "number": "Art. 17",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Vereinbarungen zwischen dem BSV und den Kantonen"
+            },
+            "children": [
+              {
+                "id": "ddi1k6o",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Vereinbarungen zwischen dem BSV und der für die IFI zuständigen kantonalen Instanz enthalten mindestens die in Artikel 13*a* Absatz 1 Buchstabe d IVG vorgesehenen Elemente sowie Bestimmungen zur Erneuerung der Vereinbarung."
+                },
+                "children": []
+              },
+              {
+                "id": "996dvy0",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Vereinbarungen werden für eine Dauer von höchstens vier Jahren abgeschlossen, wobei die Laufzeit für alle Vereinbarungen gleich ist."
+                },
+                "children": []
+              },
+              {
+                "id": "q69lkdy",
+                "number": "^3^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Der Kanton richtet seinen Antrag auf Abschluss oder Erneuerung einer Vereinbarung an das BSV, zusammen mit der Planung nach Artikel 16 und folgenden Informationen:"
+                },
+                "children": []
+              },
+              {
+                "id": "rk7u21m",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "i82kgt4",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "7duqqxm",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "dem kantonalen rechtlichen und institutionellen Rahmen des IFI-Angebots;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f2ta60a",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "lz0rsvo",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die von der Organisation oder den Organisationen, die IFI durchführen, angewandte Interventionsmethode sowie ihr Ansatz in Bezug auf die IFI;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "hh1wv6i",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "4v77crm",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Berufskategorien des Teams, das die IFI durchführt, in Vollzeitäquivalenten, einschliesslich Leitung;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "318t5c8",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "uxcpgk0",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "für jede Organisation, die Bilanz und die Erfolgsrechnung der Organisation für das Jahr vor der Aushandlung der Vereinbarung oder ihrer Erneuerung; die Erfolgsrechnungen müssen analytisch aufgestellt sein und eine Unterscheidung zwischen den durchschnittlichen Kosten pro Jahr und Kind und der Höhe der kantonalen Beiträge an die Organisation ermöglichen; ist die Organisation in eine Einrichtung integriert, die weitere Leistungen erbringt, müssen sich die vorgelegten Rechnungen nur auf die IFI-Leistungen beziehen."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "6xn75qw",
+                "number": "^4^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Kantone stellen dem BSV die notwendigen Unterlagen zur Verfügung, insbesondere jene, die belegen, dass die Organisation und deren Personal die Voraussetzungen des IVG und dieser Verordnung erfüllen."
+                },
+                "children": []
+              },
+              {
+                "id": "x1j35r5",
+                "number": "^5^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Bei Erneuerung der Vereinbarung muss das Gesuch mindestens sechs Monate vor Ablauf der Vereinbarung eingereicht werden."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "rjb8j4d",
+            "number": "Art. 18",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Aufsicht"
+            },
+            "children": [
+              {
+                "id": "xbjp48b",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Das BSV überwacht die Einhaltung der Grundsätze für die Gewährung der Pauschalen gemäss IVG und dieser Verordnung."
+                },
+                "children": []
+              },
+              {
+                "id": "oi99wdf",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Der Kanton ist verpflichtet, dem BSV und den anderen zuständigen Bundesstellen jederzeit über die Umsetzung dieser Grundsätze und der Vereinbarung mit dem BSV Auskunft zu erteilen und ihnen Einsicht in die massgebenden Unterlagen zu gewähren."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9znwv36",
+            "number": null,
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "5. Abschnitt: Evaluation der IFI, Datenerhebung und -übermittlung"
+            },
+            "children": []
+          },
+          {
+            "id": "rny3ybc",
+            "number": "Art. 19",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Kriterien zur Evaluation der IFI"
+            },
+            "children": [
+              {
+                "id": "wb7fts6",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Evaluation der IFI erstreckt sich insbesondere auf:"
+                },
+                "children": []
+              },
+              {
+                "id": "d8l5dud",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "izivi2n",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "vb12meu",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Entwicklung des Kindes im Zusammenhang mit der IFI;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7pyj0ir",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "eis396k",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Auswirkung der IFI auf die Schullaufbahn des Kindes, allenfalls unter Berücksichtigung der integrativen Förderung, die es erhält, sowie der Aufnahmekapazitäten in den Regelschulen des Kantons;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ewfz4xi",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "lyijrjk",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Auswirkung der IFI auf die Inanspruchnahme von Leistungen der Invalidenversicherung;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7o0f3x0",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "e6nl2fu",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Auswirkung der IFI auf die Integration in die Arbeitswelt und das selbstbestimmte Wohnen;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "gbqd1te",
+                    "number": "e.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "ycbxo37",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Kosten der IFI."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "st64lga",
+            "number": "Art. 20",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Datenerhebung und -übermittlung zur Nachverfolgung der Entwicklung des Kindes"
+            },
+            "children": [
+              {
+                "id": "x3imvh1",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Damit die Auswirkungen der IFI auf die Kapazitäten des Kindes vor und nach der IFI gemessen werden können, führen die Organisationen mit den Kindern Tests durch und übermitteln die Testergebnisse an den Kanton. Das Eidgenössische Departement des Innern legt die Modalitäten fest."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ovb15ib",
+            "number": "Art. 21",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Erhebung und Übermittlung weiterer Daten"
+            },
+            "children": [
+              {
+                "id": "s443oe5",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Zusätzlich zu den in Artikel 68novies Absatz 2 IVG vorgesehenen Daten erheben die Organisationen folgende Daten:"
+                },
+                "children": []
+              },
+              {
+                "id": "cyo55vc",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "lv5cdg8",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "5uekytd",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "allenfalls das Anfangs- und Enddatum der Verlängerung der IFI sowie die insgesamt mit dem Kind durchgeführten Verlängerungsstunden;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "nvghqre",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "tdxdwhl",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "allenfalls der Grund für den definitiven Abbruch der IFI;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "fhg6u8r",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "415mlel",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Interventionsmethode und die Anzahl Stunden und Wochen, die in der Regel für die IFI aufgewendet werden;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "o2sgn6t",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "ppoa423",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Berufskategorien, denen die Mitglieder des IFI-Teams in Vollzeitäquivalenten angehören, einschliesslich der Leitung;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "bnjbgn5",
+                    "number": "e.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "rbjrpe4",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Gesamtkosten der Organisation, die durchschnittlichen Kosten pro Jahr und Kind und die Höhe der kantonalen Beiträge an die Organisation; ist die Organisation in eine Einrichtung integriert, die weitere Leistungen erbringt, müssen sich die übermittelten Zahlen nur auf die IFI-Leistungen beziehen."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "crnia9a",
+            "number": "^2^",
+            "type": "CONTENT",
+            "format": "TEXT",
+            "contents": {
+              "de": "Sie übermitteln:"
+            },
+            "children": []
+          },
+          {
+            "id": "q61z97a",
+            "number": null,
+            "type": "LIST",
+            "children": [
+              {
+                "id": "dzw7fm3",
+                "number": "a.",
+                "type": "LIST_ITEM",
+                "children": [
+                  {
+                    "id": "qx4l9iu",
+                    "number": null,
+                    "type": "CONTENT",
+                    "format": "TEXT",
+                    "contents": {
+                      "de": "alle Daten nach Absatz 1 der zuständigen kantonalen Instanz;"
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "yzlm05g",
+                "number": "b.",
+                "type": "LIST_ITEM",
+                "children": [
+                  {
+                    "id": "12nfxdt",
+                    "number": null,
+                    "type": "CONTENT",
+                    "format": "TEXT",
+                    "contents": {
+                      "de": "das Anfangs- und Enddatum der Verlängerung der IFI an die IV-Stelle zu Kontrollzwecken, zu folgendem Zeitpunkt:"
+                    },
+                    "children": []
+                  },
+                  {
+                    "id": "qiosz0s",
+                    "number": null,
+                    "type": "LIST",
+                    "children": [
+                      {
+                        "id": "2nhoqe7",
+                        "number": "1.",
+                        "type": "LIST_ITEM",
+                        "children": [
+                          {
+                            "id": "xsgftoq",
+                            "number": null,
+                            "type": "CONTENT",
+                            "format": "TEXT",
+                            "contents": {
+                              "de": "hinsichtlich des Beginns der Verlängerung: vor deren Beginn,"
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "lygr8o6",
+                        "number": "2.",
+                        "type": "LIST_ITEM",
+                        "children": [
+                          {
+                            "id": "5bw3v4x",
+                            "number": null,
+                            "type": "CONTENT",
+                            "format": "TEXT",
+                            "contents": {
+                              "de": "hinsichtlich des Endes der Verlängerung: zum Zeitpunkt ihres Abschlusses."
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "k6didh6",
+            "number": "^3^",
+            "type": "CONTENT",
+            "format": "TEXT",
+            "contents": {
+              "de": "Die zuständige kantonale Instanz übermittelt die Daten nach Absatz 1 jedes Jahr am 15. Oktober zu statistischen Zwecken an das Bundesamt für Statistik (BFS), zusammen mit dem Namen der Organisation, dem Beginn und dem Ende der IFI- und den Daten nach Artikel 68novies Absatz 5 Buchstabe a VIG.."
+            },
+            "children": []
+          },
+          {
+            "id": "b2aoe2y",
+            "number": "^4^",
+            "type": "CONTENT",
+            "format": "TEXT",
+            "contents": {
+              "de": "Das BFS kann Empfehlungen zur Erhebung und Übermittlung der Daten herausgeben."
+            },
+            "children": []
+          },
+          {
+            "id": "ohf8z0h",
+            "number": "Art. 22",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Finanzierung der Statistiken"
+            },
+            "children": [
+              {
+                "id": "75ng1sq",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Der Ausgleichsfonds der Invalidenversicherung trägt sämtliche Kosten des BFS im Zusammenhang mit der Statistik zur IFI."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ofk5h20",
+            "number": null,
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "6. Abschnitt: Rechte der versicherten Person, Vernichtung und Anonymisierung der Daten"
+            },
+            "children": []
+          },
+          {
+            "id": "pdu2bcu",
+            "number": "Art. 23",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Information der versicherten Person"
+            },
+            "children": [
+              {
+                "id": "zetukzh",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die Organisation informiert die versicherte Person oder deren gesetzliche Vertretung schriftlich über das Widerspruchsrecht gemäss Artikel 24 sowie die Erhebung, Übermittlung, Anonymisierung, Vernichtung und sonstige Verarbeitung der Daten."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ksreafa",
+            "number": "Art. 24",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Widerspruchsrecht"
+            },
+            "children": [
+              {
+                "id": "qx2hfwi",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die versicherte Person oder deren gesetzliche Vertretung kann bei der Organisation jederzeit schriftlich und ohne Angabe von Gründen Widerspruch gegen die nicht anonymisierte Speicherung der Daten zu Statistikzwecken einlegen."
+                },
+                "children": []
+              },
+              {
+                "id": "3zryv9r",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Der Widerspruch muss von der versicherten Person oder ihrer gesetzlichen Vertretung unterzeichnet sein und folgende Angaben zur versicherten Person enthalten:"
+                },
+                "children": []
+              },
+              {
+                "id": "zv5ahwh",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "cx32see",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "bcsq4uu",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "den Namen und Vornamen;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "s30nw10",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "6235b4s",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die Adresse;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "41arpz1",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "rdx3xu9",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "das Geburtsdatum;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "frjnaxe",
+                    "number": "d.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "p2ellyj",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "die AHV-Nummer."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "uq3cz2u",
+                "number": "^3^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die versicherte Person oder deren gesetzliche Vertretung kann den Widerspruch jederzeit widerrufen."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3yfp2d9",
+            "number": "Art. 25",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Datenvernichtung und Anonymisierung"
+            },
+            "children": [
+              {
+                "id": "lbv8see",
+                "number": "^1^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Die zuständige kantonale Instanz und das BFS vernichten oder anonymisieren die ihnen gemäss Artikel 68novies Absätze 3 und 5 Buchstabe a IVG und den Bestimmungen dieser Verordnung übermittelten Daten, sobald der Zweck der Bearbeitung es erlaubt, spätestens aber 30 Jahre nach ihrer Beschaffung."
+                },
+                "children": []
+              },
+              {
+                "id": "cfkp76t",
+                "number": "^2^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Erhebt die versicherte Person oder ihre gesetzliche Vertretung das Widerspruchsrecht nach Artikel 24, werden folgende Massnahmen getroffen:"
+                },
+                "children": []
+              },
+              {
+                "id": "vuib2av",
+                "number": null,
+                "type": "LIST",
+                "children": [
+                  {
+                    "id": "gbrbx6b",
+                    "number": "a.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "qcm19b5",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "Die Organisationbestätigt der versicherten Person oder ihrer gesetzlichen Vertretung schriftlich, dass der Widerspruch erfasst wurde, und informiert unverzüglich die zuständige kantonale Instanz; diese leitet den Widerspruch dem BFS weiter."
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "d3rjltd",
+                    "number": "b.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "wqbhimk",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "Die Organisation und die zuständige kantonale Instanz vernichten die in Artikel 24 Absatz 2 genannten Angaben im Zusammenhang mit dem Widerspruch;"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "lyq79vk",
+                    "number": "c.",
+                    "type": "LIST_ITEM",
+                    "children": [
+                      {
+                        "id": "05y64jw",
+                        "number": null,
+                        "type": "CONTENT",
+                        "format": "TEXT",
+                        "contents": {
+                          "de": "Das BFS anonymisiert die bereits gespeicherten Daten unverzüglich und vernichtet die in Artikel 24 Absatz 2 genannten Angaben im Zusammenhang mit dem Widerspruch."
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "65s77b1",
+                "number": "^3^",
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Widerruft die versicherte Person oder ihre gesetzliche Vertretung den Widerspruch, kann die zuständige kantonale Instanz oder die Organisation die versicherte Person oder die Organisation auffordern, ihr die aufgrund des Widerspruchs anonymisierten Daten zu statistischen Zwecken erneut zu übermitteln."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9dc9dc1",
+            "number": null,
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "7. Abschnitt: Schlussbestimmungen"
+            },
+            "children": []
+          },
+          {
+            "id": "6l31ae5",
+            "number": "Art. 26",
+            "type": "HEADING",
+            "format": "TEXT",
+            "contents": {
+              "de": "Inkrafttreten"
+            },
+            "children": [
+              {
+                "id": "ol0cgru",
+                "number": null,
+                "type": "CONTENT",
+                "format": "TEXT",
+                "contents": {
+                  "de": "Diese Verordnung tritt am .... in Kraft."
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "m6j1kg2",
+            "number": null,
+            "type": "CONTENT",
+            "format": "TEXT",
+            "contents": {
+              "de": "Im Namen des Schweizerischen Bundesrates"
+            },
+            "children": []
+          },
+          {
+            "id": "ztqaqyo",
+            "number": null,
+            "type": "CONTENT",
+            "format": "TEXT",
+            "contents": {
+              "de": "Die Bundespräsidentin, …"
+            },
+            "children": []
+          },
+          {
+            "id": "ohwbgy7",
+            "number": null,
+            "type": "CONTENT",
+            "format": "TEXT",
+            "contents": {
+              "de": "Der Bundeskanzler, Viktor Rossi"
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
